@@ -1,0 +1,6 @@
+{
+  "name": "EcoFeira",
+  "description": "Plataforma PWA para conectar feirantes e consumidores, viabilizando pré-reservas de hortifrúti, estimativa precisa de demanda e redução do desperdício de alimentos (ODS 2).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
